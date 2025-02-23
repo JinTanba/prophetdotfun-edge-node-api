@@ -1,4 +1,4 @@
-
+set up dor macOS
 ```
 multipass launch lts \
   --name origintrail-edge \
@@ -14,3 +14,6 @@ cd edge-node-installer
 ```
 bash edge-node-installer.sh
 ```
+
+✅ The following measures are necessary to ensure that there is no arbitrary intervention when calculating all points.
+
